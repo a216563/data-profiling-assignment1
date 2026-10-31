@@ -4,7 +4,7 @@
 
 - **Member 1:** Tashvindren A/L Parthiben (Matric No: A216563)
 - **Member 2:** JEEVENEISH A/L D.K. RAJAN (A216686)
-- **Member 3:** MALCOLM A/L ERNEST PAUL (A216820)
+- **Member 3:** MALCOLM A/L ERNEST PAUL(A216820)
 
 
 ## Scenario Overview
